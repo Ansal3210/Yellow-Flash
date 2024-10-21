@@ -1,3 +1,3 @@
-Guide to Github Session
+# Guide to Github Session
 
 Some paragraph
